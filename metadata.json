@@ -1,0 +1,6 @@
+{
+  "name": "নীলাশা",
+  "description": "স্বপ্নে রঙ, ভাবনায় আকাশ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

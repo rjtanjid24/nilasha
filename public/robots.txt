@@ -1,0 +1,6 @@
+# robots.txt for https://nilasha.pro.bd/
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://nilasha.pro.bd/sitemap.xml
